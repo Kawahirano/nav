@@ -33,7 +33,7 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "http://192.168.31.110:9000/test/0055.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/Kawahirano/nav@image/nav-1728487826960-jkc1.png",
       "url": "",
       "width": null,
       "height": null
