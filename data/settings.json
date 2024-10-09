@@ -2,7 +2,7 @@
   "favicon": "https://heybb.oss-cn-chengdu.aliyuncs.com/upload/ava_1715596126468.jpg",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "loading2",
+  "loading": "random",
   "showGithub": true,
   "title": "发现导航 - 精选实用导航网站",
   "description": "发现导航 - 精选实用导航网站",
@@ -33,13 +33,13 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
+      "src": "http://192.168.31.110:9000/test/0055.jpg",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "http://192.168.31.110:9000/test/0055.jpg",
       "url": "",
       "width": null,
       "height": null
